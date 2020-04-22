@@ -1,2 +1,2 @@
-I know you will open it,
-fuck off
+Git is a distributed version control system.
+Git is free software distributed under the GPL.
